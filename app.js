@@ -1,4 +1,5 @@
 var displayname = "Kujo Jotaro";
 var b = true;
 var c = 23;
-document.getElementById("type").innerHTML = displayname;
+var d = 25;
+document.getElementById("name").innerHTML = displayname;
